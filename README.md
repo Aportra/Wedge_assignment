@@ -1,6 +1,6 @@
 # Wedge Transaction Data Project
 
-This project involves processing and summarizing transaction data from the Wedge cooperative. The tasks include uploading data to Google BigQuery, generating a sample of owner transactions, and creating summary tables in an SQLite database.
+This project involves processing and summarizing transaction data from the Wedge cooperative. The tasks include extracting data from zip files, cleaning data, uploading data to Google BigQuery, generating a sample of owner transactions, and creating summary tables in an SQLite database.
 
 ## Tasks
 
@@ -21,6 +21,6 @@ This project involves processing and summarizing transaction data from the Wedge
 
 ## Files
 
-- **task1_bigquery_upload.py**: Handles uploading transaction records to Google BigQuery.
-- **task2_sample_owners.py**: Generates a sample of owner transactions.
-- **task3_summary_tables.py**: Creates summary tables and stores them in SQLite.
+- **task1_bigquery_upload.ipynb**: Handles uploading transaction records to Google BigQuery.
+- **task2_sample_owners.ipynb**: Generates a sample of owner transactions.
+- **task3_summary_tables.ipynb**: Creates summary tables and stores them in SQLite.
