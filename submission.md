@@ -57,29 +57,29 @@ When calculating relative difference, use the formula
 
 |  Query  |  Your Results  |  John's Results | Difference | Rel. Diff | 
 |---|---|---|---|---|
-| Total Rows  | 70922119  |   |   |   |
-| January 2012 Rows  | 1070907  |   |   |   |
-| October 2012 Rows  | 58360  |   |   |   |
-| Month with Fewest  | December  |   | Yes/No  | NA  |
-| Num Rows in Month with Fewest  | 4848098  |   |   |   |
-| Month with Most  | July  |   | Yes/No  | NA  |
-| Num Rows in Month with Most | 7013013 |   |   |   |
-| Null_TS  | 6666481  |   |   |   |
-| Null_DT  | 0  |   |   |   |
-| Null_Local | 192436  |   |   |   |
-| Null_CN  | 0  |   |   |   |
-| Num 5 on High Volume Cards  |  14987 |   | Yes/No  | NA  |
-|  Num Rows for Number 5 |  386263 |   |   |   |
-| Num Rows for 18736  | 9651  |   |   |   |
-| Product with Most Rows  |banana organic |   | Yes/No  | NA  |
-| Num Rows for that Product  | 761893  |   |   |   |
-| Product with Fourth-Most Rows  | acocado hass organic |   | Yes/No  | NA  |
-| Num Rows for that Product  |  360814 |   |   |   |
-| Num Single Record Products  |  2860 |   |   |   |
-| Year with Highest Portion of Owner Rows  | 2013  |   | Yes/No  | NA |
-| Fraction of Rows from Owners in that Year  | .7622  |   |   |   |
-| Year with Lowest Portion of Owner Rows  |   | 2011  | Yes/No  | NA |
-| Fraction of Rows from Owners in that Year  | .7372  |   |   |   |
+| Total Rows  | 70922119  | 88758469  | -17836350  | -.201  |
+| January 2012 Rows  | 1070907  | -1070907  | 0  |  0 |
+| October 2012 Rows  | 58360  | 1042287  | -983927  | -.944  |
+| Month with Fewest  | December  | December  | No  | NA  |
+| Num Rows in Month with Fewest  | 4848098  |  6740733 | -1892635  | -.28  |
+| Month with Most  | July  | March  | Yes  | NA  |
+| Num Rows in Month with Most | 7013013 | 8479375  | -1466362  |  -.17 |
+| Null_TS  | 6666481  |  7513119 |  -846638 | -.11  |
+| Null_DT  | 0  | 0  | 0  |  0 |
+| Null_Local | 192436  | 234843 |  -42407  | -.18  |
+| Null_CN  | 0  |  0 | 0  |  0 |
+| Num 5 on High Volume Cards  |  14987 |  14987 | No  | NA  |
+|  Num Rows for Number 5 |  386263 | 481276  | -95013  | -.20  |
+| Num Rows for 18736  | 9651  |  12153 | -2502  | -.21  |
+| Product with Most Rows  |banana organic | banana organic  | No  | NA  |
+| Num Rows for that Product  | 761893  | 942523  | -180630  | -.19  |
+| Product with Fourth-Most Rows  | avocado hass organic | avocado hass organic  | No  | NA  |
+| Num Rows for that Product  |  360814 | 481662  |  -120848 | -.25  |
+| Num Single Record Products  |  2860 | 2537  | 323  | .12  |
+| Year with Highest Portion of Owner Rows  | 2013  | 2014  | Yes  | NA |
+| Fraction of Rows from Owners in that Year  | .7622  | .7591  |.0031   | .004  |
+| Year with Lowest Portion of Owner Rows  |2011  | 2011  | No  | NA |
+| Fraction of Rows from Owners in that Year  | .7372  | .7372  | 0  |  0 |
 
 ## Reflections
 
