@@ -76,8 +76,8 @@ When calculating relative difference, use the formula
 | Product with Fourth-Most Rows  | avocado hass organic | avocado hass organic  | No  | NA  |
 | Num Rows for that Product  |  456771 | 456771  |  0 | 0  |
 | Num Single Record Products  |  2741 | 2769  | -28  | -.01  |
-| Year with Highest Portion of Owner Rows  | 2014  | 2014  | Yes  | NA |
-| Fraction of Rows from Owners in that Year  | .591  | .7591  | 0  | 0  |
+| Year with Highest Portion of Owner Rows  | 2014  | 2014  | No  | NA |
+| Fraction of Rows from Owners in that Year  | .7591  | .7591  | 0  | 0  |
 | Year with Lowest Portion of Owner Rows  |2011  | 2011  | No  | NA |
 | Fraction of Rows from Owners in that Year  | .7372  | .7372  | 0  |  0 |
 
